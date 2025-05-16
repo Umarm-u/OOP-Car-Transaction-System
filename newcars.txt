@@ -1,0 +1,2 @@
+NewCar1 Company1 Model1 City1 Seller1 Engine1 Fuel1 Color1 2023 30000 4 123456 30.5
+NewCar2 Company2 Model2 City2 Seller2 Engine2 Fuel2 Color2 2022 25000 5 789012 25.3

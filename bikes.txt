@@ -1,0 +1,3 @@
+Bike2 Company2 Model2 City2 Seller2 Engine2 Fuel2 Color2 2022 25000 5 789012 25.3
+Bike1	Company1	Model1	City1	Seller1	Engine1	Fuel1	Color1	2005	43213	4	456789	34.6	
+Bike3	Company3	Model3	City3	Seller3	Engine3	Fuel3	Color3	2002	34532	4	345678	34.5	
